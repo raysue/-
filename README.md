@@ -8,9 +8,6 @@
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 ### 节点更新订阅  
 - `https://raw.fastgit.org/freefq/free/master/v2`  
-### 自建节点订阅  
-[bulink.xyz](https://bulink.xyz)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验  
-新开bulink镜像站[burstlinker.com](https://www.burstlinker.com)（不需要翻墙）  
 ## v2ray  
 ```  
 vmess://eyJhZGQiOiAiMjAzLjMwLjE5MC4xOTEiLCAiYWlkIjogMCwgImhvc3QiOiAib3BsZzEuemh1amljbjIuY29tIiwgImlkIjogIjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNVFOUk9TUlYiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU2ZmIzXHU1OTI3XHU1MjI5XHU0ZTlhTGFuZ3dhcnJpbiBTZWNvbmRhcnkgQ29sbGVnZSAxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=  
